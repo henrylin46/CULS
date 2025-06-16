@@ -9,6 +9,7 @@
 #include <thrust/copy.h>
 #include <thrust/tuple.h>
 #include <thrust/iterator/zip_iterator.h>
+#include <thrust/count.h>
 #include "common.h"
 #include "aig_manager.h"
 #include "hash_table.h"
